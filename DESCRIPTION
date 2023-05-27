@@ -14,3 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     entropy
+URL: https://github.com/hwarden162/labscent
+BugReports: https://github.com/hwarden162/labscent/issues
